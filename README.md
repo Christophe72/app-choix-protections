@@ -135,3 +135,8 @@ Guide des Circuits Electriques - RGIE Belgique
  
 Application Next.js 15 avec TypeScript, TailwindCSS et Prisma 
 pour la gestion des circuits electriques selon le RGIE. 
+# app-choix-protections 
+Guide des Circuits Electriques - RGIE Belgique 
+ 
+Application Next.js 15 avec TypeScript, TailwindCSS et Prisma 
+pour la gestion des circuits electriques selon le RGIE. 
